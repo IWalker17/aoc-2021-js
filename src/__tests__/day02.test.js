@@ -24,7 +24,7 @@ describe("day02", () => {
       }
     );
 
-    it(`shoult return the total of the final horizontalPosition
+    it(`should return the total of the final horizontalPosition
          multiplied by the final depth from ${DEFAULT_RESOURCE_PATH}`, () => {
       const exptected = 1507611;
       const actual = day02.getHorizontalPostitionByFinalDepth();
