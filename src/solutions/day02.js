@@ -9,7 +9,7 @@ const day02 = {
       try {
         input = fs.readFileSync(DEFAULT_INPUT_PATH, "utf-8").split("\n");
       } catch (error) {
-        throw new Error("Failed to read default input from file 'day01.txt'");
+        throw new Error("Failed to read default input from file 'day02.txt'");
       }
     }
 
@@ -38,7 +38,7 @@ const day02 = {
       try {
         input = fs.readFileSync(DEFAULT_INPUT_PATH, "utf-8").split("\n");
       } catch (error) {
-        throw new Error("Failed to read default input from file 'day01.txt'");
+        throw new Error("Failed to read default input from file 'day02.txt'");
       }
     }
 
